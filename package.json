@@ -45,6 +45,6 @@
     "typescript": "^4.5.4"
   },
   "peerDependencies": {
-    "@inertiajs/inertia": "^0.11.0"
+    "@inertiajs/inertia": "^0.10.1"
   }
 }
